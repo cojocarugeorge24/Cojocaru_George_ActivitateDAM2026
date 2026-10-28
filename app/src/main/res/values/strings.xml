@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laborator 3</string>
+    <string name="input_hint">Scrie altceva</string>
+    <string name="change_button">BUTON SCHIMBĂ TEXTUL</string>
+    <string name="initial_text">Text View</string>
+    <string name="empty_text_error">Scrie un text înainte să continui</string>
+    <string name="toast_text_changed">Textul a fost schimbat.</string>
+    <string name="switch_confirm">Activează butonul</string>
+    <string name="left_column_text">Text View</string>
+    <string name="right_top_text">Text View</string>
+    <string name="right_bottom_text">Text View</string>
+</resources>
